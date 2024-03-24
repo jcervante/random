@@ -2,7 +2,7 @@
 alert('Aleatorifo');
 if(numero<=0.5)
 {
-	console.log('\n'+numer2o+' menor que 0.5 '+'\n');
+	console.log('\n'+numer20o+' menor que 0.5 '+'\n');
 }
 else
 {
